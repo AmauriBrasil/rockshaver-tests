@@ -16,5 +16,6 @@ module.exports = {
       configurePlugin(on);
     },
     baseUrl: process.env.API_URL,
+    video: true
   },
 };

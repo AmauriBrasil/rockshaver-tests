@@ -17,7 +17,6 @@ module.exports = {
       configurePlugin(on);
     },
     baseUrl: process.env.MOB_URL,
-    viewportWidth: 1920,
-    viewportHeight: 1080
+    video: true
   },
 };
