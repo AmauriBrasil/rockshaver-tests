@@ -13,13 +13,15 @@ pipeline {
 						sh 'npx cypress install --force'
 						sh 'npx cypress run'
 					}
-      	}
+      			}
     	}
 
 		stage('Mobile') {
 			steps {
 				dir('mobile') {
-					sh 'echo teste'
+						sh 'npm install'
+						sh 'npx cypress install --force'
+						sh 'npx cypress run'
 				}
 			}
 		}
@@ -27,9 +29,11 @@ pipeline {
 		stage('Web') {
 			steps {
 				dir('web') {
-					sh 'echo teste'
+						sh 'npm install'
+						sh 'npx cypress install --force'
+						sh 'npx cypress run'
 				}
 			}
 		}
-  }
+  	}
 }
