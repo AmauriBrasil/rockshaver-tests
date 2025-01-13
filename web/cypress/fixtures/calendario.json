@@ -1,0 +1,44 @@
+[
+  {
+    "data": "2025-01-09T03:00:00.000Z",
+    "dia": "09",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Quinta"
+  },
+  {
+    "data": "2025-01-10T03:00:00.000Z",
+    "dia": "10",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Sexta"
+  },
+  {
+    "data": "2025-01-11T03:00:00.000Z",
+    "dia": "11",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Sábado"
+  },
+  {
+    "data": "2025-01-13T03:00:00.000Z",
+    "dia": "13",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Segunda"
+  },
+  {
+    "data": "2025-01-14T03:00:00.000Z",
+    "dia": "14",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Terça"
+  },
+  {
+    "data": "2025-01-15T03:00:00.000Z",
+    "dia": "15",
+    "mes": "JAN",
+    "ano": "2025",
+    "diaSemana": "Quarta"
+  }
+]

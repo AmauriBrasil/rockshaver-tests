@@ -1,0 +1,53 @@
+{
+	"sucesso": {
+		"data": "10/01/2025",
+		"dia": "10",
+		"profissional": {
+			"nome": "Tina",
+			"matricula": 1003
+		},
+		"hora": "10:00",
+		"servico": {
+			"codigo": 3,
+			"descricao": "Combo"
+		},
+		"usuario": {
+			"nome": "Andrea Santos",
+			"email": "andrea@msn.com"
+		}
+	},
+	"duplicado": {
+		"data": "13/01/2025",
+		"dia": "13",
+		"profissional": {
+			"nome": "Kurt",
+			"matricula": 1008
+		},
+		"hora": "14:00",
+		"servico": {
+			"codigo": 1,
+			"descricao": "Corte"
+		},
+		"usuario": {
+			"nome": "James Web",
+			"email": "james@nasa.com"
+		}
+	},
+	"conflito": {
+		"data": "14/01/2025",
+		"dia": "14",
+		"profissional": {
+			"nome": "Jimi",
+			"matricula": 1006
+		},
+		"hora": "16:00",
+		"servico": {
+			"codigo": 1,
+			"descricao": "Corte"
+		},
+		"usuario": {
+			"nome": "David Bowie",
+			"email": "david@teste.com"
+		}
+	}
+}
