@@ -13,7 +13,7 @@ pipeline {
 						sh 'npx cypress install --force'
 						sh 'npx cypress run'
 					}
-      	}
+      			}
     	}
 
 		stage('Mobile') {
@@ -35,5 +35,5 @@ pipeline {
 				}
 			}
 		}
-  }
+  	}
 }
